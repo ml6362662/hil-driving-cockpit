@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270">
+<rect width="1200" height="270" rx="12" fill="#233c31"/>
+<path d="M870 270L965 30M1030 270L1010 30" stroke="#789280" stroke-width="2"/>
+<path d="M950 250L988 60" stroke="#acbb9e" stroke-width="3" stroke-dasharray="18 18"/>
+<circle cx="1030" cy="140" r="72" stroke="#4b6856" stroke-width="2" fill="none"/>
+<text x="55" y="62" fill="#acbb9e" font-size="15" letter-spacing="3" font-family="Arial,sans-serif">REINFORCEMENT LEARNING / HUMAN IN THE LOOP</text>
+<text x="55" y="133" fill="#f4f3e9" font-size="38" font-family="Microsoft YaHei,sans-serif" font-weight="600">人机共驾 · 从示范质量到策略学习</text>
+<text x="55" y="184" fill="#cbd5c5" font-size="19" font-family="Microsoft YaHei,sans-serif">两代驾驶座舱 / CARLA 实验平台 / 质量引导的强化学习</text>
+<text x="55" y="232" fill="#acbb9e" font-size="14" font-family="Microsoft YaHei,sans-serif">何非凡 · 北京工业大学</text>
+</svg>
